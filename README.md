@@ -14,3 +14,9 @@ Payment processing for completed projects
 With the Freelancer Platform App, freelancers can quickly and easily find jobs and connect with clients, all from the convenience of their mobile device. Whether you're an experienced freelancer or just starting out, this app is the perfect tool to help you take your career to the next level.
 
 If you have any questions or feedback about the Freelancer Platform App, please contact us at [your email or contact information].
+
+
+# Installation 
+npm / yarn install 
+# Run Project 
+npm react-native run-android
